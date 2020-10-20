@@ -1,6 +1,6 @@
 # Exercicios Trybe 
 
-Esse repositorio é destinado a solicitações de exercícios e projetos da
+Esse repositorio é destinado a solicitações de exercícios e projetos do
 curso de desenvolvimento de software Trybe.
 
 # Terefas
