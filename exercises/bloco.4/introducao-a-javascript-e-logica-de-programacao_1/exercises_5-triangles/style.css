@@ -89,3 +89,8 @@ form h2{
     margin: 10px;
     cursor: pointer;
 }
+#nextOrNot{
+    display: flex;
+    justify-content: space-around;
+   
+}

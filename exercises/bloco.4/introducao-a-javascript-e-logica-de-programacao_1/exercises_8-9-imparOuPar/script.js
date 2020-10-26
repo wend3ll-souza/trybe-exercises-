@@ -5,7 +5,7 @@ function par() {
 
     if ((n1 % 2 === 0)||(n2 % 2 === 0)||(n3 % 2 === 0)){
 
-        document.getElementById("result").innerHTML = 'há número pares';
+        document.getElementById("result").innerHTML = 'há números pares';
     
     }else{
         document.getElementById("result").innerHTML = 'todos os números são impares';
