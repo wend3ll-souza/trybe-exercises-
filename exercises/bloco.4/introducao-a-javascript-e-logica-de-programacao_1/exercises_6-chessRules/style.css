@@ -66,7 +66,7 @@ form{
 #compar{
     position: absolute;
     left: 55px;
-    top: 100px;
+    top: 17px;
 }
 
 #compar input{
@@ -81,4 +81,9 @@ form{
     left: 77px;
     margin: 10px;
     cursor: pointer;
+}
+#nextOrNot{
+    display: flex;
+    justify-content: space-around;
+   
 }

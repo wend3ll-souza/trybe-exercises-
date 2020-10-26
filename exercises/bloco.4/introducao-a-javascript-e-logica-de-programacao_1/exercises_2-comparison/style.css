@@ -85,3 +85,8 @@ form{
     left: 77px;
     margin: 10px;
 }
+#nextOrNot{
+    display: flex;
+    justify-content: space-around;
+   
+}
