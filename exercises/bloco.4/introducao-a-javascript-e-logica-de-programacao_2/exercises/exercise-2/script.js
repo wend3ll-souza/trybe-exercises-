@@ -12,7 +12,7 @@ let array = [1,2,3,4];
 let sum = 0;
 
 // repetição, para cada posição do array, 
-for (let i = 0; i < array.length; i+= 1) {
+for ( i = 0; i < array.length; i+= 1) {
     //estrutura a ser repetida a cada valor
   sum += array[i];
 }
