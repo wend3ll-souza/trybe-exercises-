@@ -1,0 +1,15 @@
+.text-box {
+    margin-bottom: 16px;
+}
+
+.house {
+    background-color: rgb(166, 194, 185);
+}
+
+.dataP {
+    margin-bottom: 2rem;
+}
+
+textarea{
+    resize: none;
+}
