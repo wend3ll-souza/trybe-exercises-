@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h2 id="page-title">Título</h2>
+    <p id="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p id="second-paragraph">Segundo parágrafo!</p>
+    <button class="button">Evento</button>
+
+    <script>
+
+
+    document.querySelector(".button").addEventListener("click", function(){
+    document.querySelector("#paragraph").classList.toggle("paragraph-style")
+    document.querySelector("#second-paragraph").classList.toggle("paragraph-style")
+    document.querySelector("#second-paragraph").innerText = "Parágrafo alterado"
+    document.querySelector("#page-title").innerText = "mais alteraçãos"
+    document.querySelector("#subtitle").innerText = "testando 3, 2, 1"
+    document.getElementsByTagName('p')[0].style.backgroundColor = 'red';
+    
+    });
+
+
+    </script>
+  </body>
+</html>
