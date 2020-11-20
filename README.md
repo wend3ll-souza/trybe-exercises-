@@ -42,6 +42,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 3.3: HTML & CSS - Selectors and positioning
 - [X] 3.4: Semantic HTML
 - [X] 3.5: Project - Lessons Learned
+
 ##### Unit 4: Introduction to JavaScript and Programming Logic :heavy_check_mark:
 
 - [X] 4.1: JavaScript - First steps
@@ -51,6 +52,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 4.5: Project - Playground Functions
 
 ##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage ::heavy_check_mark:
+
 - [X] 5.1: JavaScript - DOM and selectors
 - [X] 5.2: JavaScript - Working with elements
 - [X] 5.3: JavaScript - Events
