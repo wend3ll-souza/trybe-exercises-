@@ -1,0 +1,64 @@
+/************ GERAIS **************/
+* {
+    margin: 0;
+    overflow: hidden;
+}   
+
+body{
+    background-color: #c0c0c06b;
+}
+
+main {
+    display: grid;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    }
+
+
+/*********** Forms *************/
+form {
+    border-radius: 1rem;
+    background-color: #5050f5;
+    height: 17rem;
+    width: 20rem;
+}
+
+.label {
+    font-size: 3rem;
+    width: 4rem;
+    height: 5rem;
+    margin: 9px;
+    background-color: white;
+    float: left;
+    border-radius: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+#section {
+    position: relative;
+    left: 36px;
+}
+
+
+/**************  BOTÃO    **************/
+
+#press {
+    width: 7rem;
+    height: 3rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    border: none;
+    outline-offset: none;
+    outline-style: none;
+}
+
+header{
+    background-color: #fff1aa;
+    text-align: center;
+    font: icon;
+}
