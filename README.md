@@ -41,7 +41,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 3.2: HTML & CSS - First steps in CSS
 - [X] 3.3: HTML & CSS - Selectors and positioning
 - [X] 3.4: Semantic HTML
-- [X] 3.5: [Project - Lessons Learned](https://github.com/tryber/sd-08-project-lessons-learned/tree/eric-massaki-lessons-learned-project)
+- [X] 3.5: Project - Lessons Learned
 
 ##### Unit 4: Introduction to JavaScript and Programming Logic :heavy_check_mark:
 
@@ -51,8 +51,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 4.4: JavaScript - Objects and functions
 - [X] 4.5: Project - Playground Functions
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage  :hourglass_flowing_sand:
-
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage ::heavy_check_mark:
 
 - [X] 5.1: JavaScript - DOM and selectors
 - [X] 5.2: JavaScript - Working with elements
@@ -69,7 +68,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 6.1: HTML & CSS - Forms
 - [X] 6.2: JavaScript Libraries and CSS Frameworks
 - [X] 6.3: CSS Flexbox - Part 1
-- [ ] 6.4: CSS Flexbox - Part 2
+- [X] 6.4: CSS Flexbox - Part 2
 - [ ] 6.5: CSS Responsive - Mobile First
 - [ ] 6.6: Project - Facebook's Login Page
 
