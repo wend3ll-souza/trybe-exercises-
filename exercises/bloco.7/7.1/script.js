@@ -37,3 +37,20 @@ const arrow = (escopo) => {
 
   console.log(produto(4));
 
+// BONUS  
+
+//2
+
+  const fatorial = (n) => n === 0 || n === 1 ? 1 : n * fatorial(n-1);
+
+  let longestWord = (param) => {
+    let words = param.split(' ');
+    let longest = '';
+    for(value of words){
+      longest = value.length > longest.length ? value : longest;
+    }
+   return longest;
+  }
+
+
+console.log(longestWord('Antônio foi no banheiro e não sabemos o que aconteceu'));
