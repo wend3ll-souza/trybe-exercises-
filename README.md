@@ -69,13 +69,13 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 6.2: JavaScript Libraries and CSS Frameworks
 - [X] 6.3: CSS Flexbox - Part 1
 - [X] 6.4: CSS Flexbox - Part 2
-- [ ] 6.5: CSS Responsive - Mobile First
+- [X] 6.5: CSS Responsive - Mobile First
 - [ ] 6.6: Project - Facebook's Login Page
 
 ##### Unit 7: JavaScript ES6 & Unit Tests :closed_book:
 
-- [ ] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2: JavaScript ES6 - Objects
+- [X] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
+- [X] 7.2: JavaScript ES6 - Objects
 - [ ] 7.3: Unit tests in JavaScript
 - [ ] 7.4: Project - JavaScript Unit Tests
 
