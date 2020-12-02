@@ -51,7 +51,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 4.4: JavaScript - Objects and functions
 - [X] 4.5: Project - Playground Functions
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage ::heavy_check_mark:
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :heavy_check_mark:
 
 - [X] 5.1: JavaScript - DOM and selectors
 - [X] 5.2: JavaScript - Working with elements
@@ -63,23 +63,24 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 5.7: (Bonus) Project - Gess the Color
 - [ ] 5.7: (Bonus) Project - Mysterious Letter
 
-##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :hourglass_flowing_sand:
+##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :heavy_check_mark:
 
 - [X] 6.1: HTML & CSS - Forms
 - [X] 6.2: JavaScript Libraries and CSS Frameworks
 - [X] 6.3: CSS Flexbox - Part 1
 - [X] 6.4: CSS Flexbox - Part 2
-- [ ] 6.5: CSS Responsive - Mobile First
-- [ ] 6.6: Project - Facebook's Login Page
+- [X] 6.5: CSS Responsive - Mobile First
+- [X] 6.6: Project - Facebook's Login Page
 
-##### Unit 7: JavaScript ES6 & Unit Tests :closed_book:
+##### Unit 7: JavaScript ES6 & Unit Tests :heavy_check_mark:
 
-- [ ] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2: JavaScript ES6 - Objects
-- [ ] 7.3: Unit tests in JavaScript
-- [ ] 7.4: Project - JavaScript Unit Tests
 
-##### Unit 8: JavaScript ES6 :closed_book:
+- [X] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
+- [X] 7.2: JavaScript ES6 - Objects
+- [X] 7.3: Unit tests in JavaScript
+- [X] 7.4: Project - JavaScript Unit Tests
+
+##### Unit 8: JavaScript ES6 :hourglass_flowing_sand:
 
 - [ ] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
