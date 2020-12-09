@@ -1,6 +1,7 @@
 ## 9.1
 
 **Praticando: Exercicios de fixação**
+
 _1. Callbacks:_
 
 -  Complete a função getUser de forma que ela receba uma outra função como parâmetro 
@@ -16,7 +17,7 @@ _2. Lidando com erros em operações assíncronas:_
 
 1. Dado o código abaixo, qual a ordem de finalização de execução das linhas comentadas?
 
-2, Agora, dado o código abaixo, qual a ordem de finalização de execução das linhas comentadas?
+2. Agora, dado o código abaixo, qual a ordem de finalização de execução das linhas comentadas?
 
 3. A função getPlanet abaixo imprime o planeta Marte de forma síncrona. Modifique getPlanet , de forma que Marte seja impresso assincronamente, depois de 4 segundos.
 
