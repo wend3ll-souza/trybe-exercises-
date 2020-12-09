@@ -9,7 +9,7 @@ _1. Callbacks:_
 
 _2. Lidando com erros em operações assíncronas:_
 
--A função `getCountry` tem aproximadamente _50%_ de chance de obter com sucesso um país, tendo um callback para poder ser feita qualquer operação sobre o país retornado. Adicione um outro callback para `getCountry` , de forma que trate a mensagem de erro retornada.
+- A função `getCountry` tem aproximadamente _50%_ de chance de obter com sucesso um país, tendo um callback para poder ser feita qualquer operação sobre o país retornado. Adicione um outro callback para `getCountry` , de forma que trate a mensagem de erro retornada.
 
 
 **Exercicios**
