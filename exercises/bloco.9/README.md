@@ -1,6 +1,7 @@
 ## Bloco 9: JavaScript Assíncrono e Promises 
 
-**9.1:**
+### 9.1: Js Assincrono e Callbacks
+
 - Operações assíncronas;
 - Callbacks;
 
@@ -30,3 +31,17 @@ const sorteio = (callback) => {
 
 sorteio(numberDice);
 ```
+
+### 9.2: JavaScript Promises
+
+- Utilizar Promises para fazer chamadas assíncronas;
+- Fazer integrações com APIs de terceiros;
+
+ _As `Promises` foram criadas para facilitar a leitrura de `códigos assíncronos` e tornar sua lógica mais prevísivel e legível. Sendo uma das formas mais populares de se escrever esse tipo de código em `JavaScript`; também a a principal forma de se ***comunicar com APIs***_
+
+
+
+
+
+
+
