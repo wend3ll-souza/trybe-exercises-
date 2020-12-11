@@ -1,11 +1,17 @@
-### 8.1:
 
-- Array.forEach() `executa uma função para cada elemento do Array`
+### 8.1 - Higher Order Functions - forEach, find, some, every, sort
 
-- Array.find() `Encontra o primeiro elemento de um Array que satisfaça a condição passada`
+- 1 Encontre o nome da primeira pessoa autora do livro nascida no ano de 1947.
 
-- Array.some() `Testa se ALGUM elemento do Array satisfaz a condição e retorna um Boolean Value` 
+- 2 Retorne o nome do livro de menor nome.
 
-- Array.every() `Testa se TODOS os elementos do Array satisfazem a condição e retorna um Boolean Value`
+- 3 Encontre o primeiro livro cujo nome possui 26 caracteres.
 
-- Array.sort() `ordena o array de acordo com o criterio passado`
+- 4 Ordene os livros por data de lançamento em ordem decrescente.
+
+- 5 Faça uma função que retorne true , se todas as pessoas autoras nasceram no século XX, ou false , caso contrário.
+
+- 6 Faça uma função que retorne true , se algum livro foi lançado na década de 80, e false , caso contrário.
+
+- 7 Faça uma função que retorne true , caso nenhum author tenha nascido no mesmo ano, e false , caso contrário.
+
