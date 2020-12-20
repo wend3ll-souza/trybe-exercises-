@@ -10,9 +10,6 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 ## How to access the exercises
 Everyday I'll be making new Pull Requests with new branches for each day. 
 To access the files from terminal, make a clone of the repository with:
-```git
-git clone https://github.com/emassaki/trybe-exercises.git
-```
 Then, you have to change branches according to the lecture you want to visit:
 ```git
 git checkout exercises/lecture_number
