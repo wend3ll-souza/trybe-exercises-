@@ -7,14 +7,7 @@ Trybe is a school for people who want to wants to build a succesful career in te
 
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
 
-## How to access the exercises
-Everyday I'll be making new Pull Requests with new branches for each day. 
-To access the files from terminal, make a clone of the repository with:
-Then, you have to change branches according to the lecture you want to visit:
-```git
-git checkout exercises/lecture_number
-```
-The lecture number is displayed in the section Trybe Lectures as `lecture_number: content`.
+**Tasks control:**
 - :hourglass_flowing_sand: - Ongoing
 - :heavy_check_mark: - Completed
 - :closed_book: - Not started
