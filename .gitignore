@@ -1,3 +1,12 @@
 **/.vscode
 **/node_modules
 **/package-lock.json
+exercices/.vscode
+exercices/node_modules
+exercices/package-lock.json
+exercises/bloco*/.vscode
+exercises/bloco*/node_modules
+exercises/bloco*/package-lock.json
+
+
+
