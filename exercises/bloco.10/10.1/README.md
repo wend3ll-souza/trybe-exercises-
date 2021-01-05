@@ -1,24 +1,14 @@
-<<<<<<< HEAD
+
 ## Jest
 
 
 [Jest](https://jestjs.io/) é um Fremework JavaScript de testes unitarios. Trabalha principalmente  com as tecnologias : [Babel](https://babeljs.io/), [TypeScript](https://www.typescriptlang.org/) , [Node](https://nodejs.org/en/), [React](https://reactjs.org/), [Angular](https://angular.io/) e [Vue](https://vuejs.org/). 
-=======
-> ## Jest
-
-[Jest](https://jestjs.io/) é um Fremework JavaScript de testes unitarios. Trabalha principalmente  com as tecnologias : [Babel](https://babeljs.io/), [TypeScript](https://www.typescriptlang.org/) , [Node](https://nodejs.org/en/), [React](https://reactjs.org/), [Angular](https://angular.io/) e [Vue](https://vuejs.org/).
->>>>>>> develop
 
 **Importancia :**
 
 Mesmo podendo usar features como assert do NodeJS para fazer teste unitários. O Jest nós traz testes mais detalhados, pois o mesmo procura e testa todos os testes da aplicação, fornecendo o ponto de falha de cada teste.
 
-<<<<<<< HEAD
-
 **[Instalação:](https://jestjs.io/docs/en/getting-started.html)**
-=======
-> ## [Instalação:](https://jestjs.io/docs/en/getting-started.html)
->>>>>>> develop
 
 _via [npm](https://www.npmjs.com/)_
 
