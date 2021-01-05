@@ -89,7 +89,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 - [X] 9.2: JavaScript Promises
 - [X] 9.3: Project - Shopping Cart
 
-##### Unit 10: Automated Tests with Jest  
+##### ~~~~Unit 10: Automated Tests with Jest  :hourglass_flowing_sand:
 
 - [X] 10.1: First steps on Jest
 - [X] 10.2: Jest - Asynchronous tests
