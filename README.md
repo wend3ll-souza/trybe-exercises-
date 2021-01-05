@@ -9,9 +9,7 @@ Trybe is a school for people who want to wants to build a succesful career in te
 
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
 
-
-**Task Controls:**
-
+**Tasks control:**
 - :hourglass_flowing_sand: - Ongoing
 - :heavy_check_mark: - Completed
 - :closed_book: - Not started
@@ -47,7 +45,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 - [X] 4.4: JavaScript - Objects and functions
 - [X] 4.5: Project - Playground Functions
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage ::heavy_check_mark:
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :heavy_check_mark:
 
 - [X] 5.1: JavaScript - DOM and selectors
 - [X] 5.2: JavaScript - Working with elements
@@ -89,7 +87,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 - [X] 9.2: JavaScript Promises
 - [X] 9.3: Project - Shopping Cart
 
-##### ~~~~Unit 10: Automated Tests with Jest  :hourglass_flowing_sand:
+##### Unit 10: Automated Tests with Jest  :hourglass_flowing_sand: 
 
 - [X] 10.1: First steps on Jest
 - [X] 10.2: Jest - Asynchronous tests
