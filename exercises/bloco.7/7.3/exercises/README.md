@@ -1,4 +1,6 @@
-**exercicio-1**
+## Parte 1 - Praticando a Implementação de Testes
+
+**exercicio-1 :**
 
 - A função `sum(a, b)` retorna a soma do parâmetro a com o b
 
@@ -12,7 +14,7 @@
 
 <hr>
 
-**exercicio-2**
+**exercicio-2 :**
 
 - A função `myRemove(arr, item)` recebe um _array arr_ e retorna uma cópia desse _array_ sem o elemento `item` caso ele exista no _array_
 
@@ -26,7 +28,7 @@
 
 <hr>
 
-**exercicio-3**
+**exercicio-3 :**
 
 - A função `myRemoveWithoutCopy(arr, item)` recebe um _array arr_ e retorna o próprio _array_ sem o elemento item caso ele exista no _array_
 
@@ -40,7 +42,7 @@
 
 <hr>
 
-**exercicio-4**
+**exercicio-4 :**
 
 - A função `myFizzBuzz(num)` recebe um número num e retorna _"fizzbuzz"_ se o número for divisível por 3 e 5 , retorna _"fizz"_ se for divisível apenas por 3 , retorna _"buzz"_ se divisível apenas por 5 , retorna o próprio número caso não seja divisível por 3 ou 5 e retorna false caso num não seja um número
 
@@ -55,6 +57,37 @@
 
 <hr>
 
-**exercicio-5**
+**exercicio-5 :**
 
 - Compare dois objetos (JSON) para verificar se são idênticos ou não
+
+
+## Parte 2 - Praticando TDD
+
+**exercicio-1 :**
+- Escreva a função addOne para passar nos testes já implementados.
+
+**exercicio-2 :**
+- Escreva a função wordLengths para passar nos testes já implementados.
+
+**exercicio-3 :**
+- Escreva a função sumAllNumbers para passar nos testes já implementados.
+
+**exercicio-4 :**
+- Escreva a função findTheNeedle para passar nos testes já implementados.
+
+
+## Parte 3 - Reescrevendo funções utilizando TDD
+
+**exercicio-1 :**
+- Use a variável `parameter` como parâmetro da função `greetPeople`, escreva testes para verificar se a mesma está retornando como se vê na variável `result` e, caso não esteja, altere o código para que ele passe nos testes.
+
+**exercicio-2 :**
+- Use a variável `parameter` como parâmetro da função `removeVowels`, escreva testes para verificar se a mesma está retornando como se vê na variável `result` e, caso não esteja, altere o código para que ele passe nos testes.
+
+**exercicio-3 :**
+- Use a variável `parameter` como parâmetro da função `greaterThanTen`, escreva testes para verificar se a mesma está retornando como se vê na variável `result` e, caso não esteja, altere o código para que ele passe nos testes.
+
+**exercicio-4 :**
+- Use a variável `parameter` como parâmetro da função `secondThirdSmallest`, escreva testes para verificar se a mesma está retornando como se vê na variável `result` e, caso não esteja, altere o código para que ele passe nos testes.
+
