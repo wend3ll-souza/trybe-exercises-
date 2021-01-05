@@ -1,0 +1,4 @@
+/* {
+  tech: 'nomeTecnologia',
+  name: name,
+}*/

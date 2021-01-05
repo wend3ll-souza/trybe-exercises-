@@ -1,18 +1,19 @@
-const assert = require('assert'); // Sintaxe para incluir o módulo assert
+// Incluindo assert: Testar separadamente
 
-assert.equal(50, 50,'os numeros tem ser iguais'); 
+ const assert = require('assert');
 
-const division = (num1, num2) => num1/num2;
+ //TEST_1
 
-const expected =  division(9, 3);
+// assert.strictEqual(50, 50);
+//  // assert.strictEqual(50, 70);
 
-assert.equal(expected, 3, '9 / 3 é igual a 3');
+//TEST_2
+//  Testando divisão utilizando assert
 
+division = (a, b) => {
+    return a/b;
+}
 
-const add = (a, b) => a + b;
+const expected = division(9, 3);
 
-const expected = add(1, 2);
-
-assert.ok(expected === 3, 'Um mais dois é igual a três'); // Checa se o primeiro argumento é verdadeiro
-assert.strictEqual(expected, 3, 'Um mais dois é igual a três'); // Checa se o primeiro e segundo argumentos são iguais em valor e tipo (===)
-assert.notStrictEqual(expected, 4, 'Um mais dois é igual a três (e não quatro!)'); // Checa se o primeiro e segundo argumentos são diferentes (!==) 
+assert.strictEqual(expected, 3, 'Nove dividido por 3 é igual a 3');z

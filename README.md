@@ -1,8 +1,10 @@
 # Trybe Exercises
-This repository have all the exercises developed by [Wendell Souza](https://www.linkedin.com/in/wendell-souza-5b13781a3/) 
-during Trybe's course. 
+
+This repository have all the exercises developed by [Wendell Souza](https://www.linkedin.com/in/wendell-souza-5b13781a3/)
+during Trybe's course.
 
 ### [Trybe](https://www.betrybe.com/) :rocket:
+
 Trybe is a school for people who want to wants to build a succesful career in technology. The program counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
@@ -13,7 +15,9 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 - :closed_book: - Not started
 
 # Trybe Lectures
+
 ## Introduction - Fundamentals of Web Development :hourglass_flowing_sand:
+
 ##### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
 
 - [X] 1.3: Unix & Bash - Part 1
@@ -47,11 +51,11 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 - [X] 5.2: JavaScript - Working with elements
 - [X] 5.3: JavaScript - Events
 - [X] 5.4: JavaScript - Web Storage
-- [ ] 5.5: Project - Meme Generator
+- [X] 5.5: Project - Meme Generator
 - [X] 5.6: Project - Art with Pixels
 - [X] 5.7: Project - Task List
-- [ ] 5.7: (Bonus) Project - Gess the Color
-- [ ] 5.7: (Bonus) Project - Mysterious Letter
+- [X] 5.7: (Bonus) Project - Gess the Color
+- [X] 5.7: (Bonus) Project - Mysterious Letter
 
 ##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :heavy_check_mark:
 
@@ -64,30 +68,29 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 
 ##### Unit 7: JavaScript ES6 & Unit Tests :heavy_check_mark:
 
-
 - [X] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
 - [X] 7.2: JavaScript ES6 - Objects
 - [X] 7.3: Unit tests in JavaScript
 - [X] 7.4: Project - JavaScript Unit Tests
 
-##### Unit 8: JavaScript ES6 :hourglass_flowing_sand:
+##### Unit 8: JavaScript ES6 :heavy_check_mark:
 
-- [ ] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.3: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
-- [ ] 8.5: Project - Zoo functions
+- [X] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
+- [X] 8.3: JavaScript ES6 - Higher Order Functions - reduce
+- [X] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
+- [X] 8.5: Project - Zoo functions
 
-##### Unit 9: Asynchronicity & Callbacks :closed_book:
+##### Unit 9: Asynchronicity & Callbacks :heavy_check_mark:
 
-- [ ] 9.1: Asynchronous JavaScript and Callbacks
-- [ ] 9.2: JavaScript Promises
-- [ ] 9.3: Project - Shopping Cart
+- [X] 9.1: Asynchronous JavaScript and Callbacks
+- [X] 9.2: JavaScript Promises
+- [X] 9.3: Project - Shopping Cart
 
-##### Unit 10: Automated Tests with Jest :closed_book:
+##### Unit 10: Automated Tests with Jest  :hourglass_flowing_sand: 
 
-- [ ] 10.1: First steps on Jest
-- [ ] 10.2: Jest - Asynchronous tests
+- [X] 10.1: First steps on Jest
+- [X] 10.2: Jest - Asynchronous tests
 - [ ] 10.3: Jest - Simulating behaviors
 - [ ] 10.4: Project - Asynchronous Jest and Mocking
 
@@ -147,7 +150,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 
 - [ ] 19.1: Project - Recipes App
 
- ## Back-end Development :closed_book:
+## Back-end Development :closed_book:
 
 ##### Unit 20: Introduction to SQL :closed_book:
 
@@ -179,7 +182,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 
 ##### Unit 24: MongoDB: Simple and Complex Updates :closed_book:
 
-- [ ] 24.1: Simple Updates 
+- [ ] 24.1: Simple Updates
 - [ ] 24.2: Complex Updates - Arrays - Part 1
 - [ ] 24.3: Complex Updates - Arrays - Part 2
 - [ ] 24.4: Project - Commerce
@@ -253,7 +256,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 
 - [ ] 35.1: Learning Python
 - [ ] 35.2: Tests and Exeptions
-- [ ] 35.3: Data Input and Output 
+- [ ] 35.3: Data Input and Output
 - [ ] 35.4: Data Scraping
 - [ ] 35.5: Project - Tech News
 
