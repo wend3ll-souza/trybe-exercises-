@@ -10,7 +10,6 @@ Para trabalhar com os testes em arquivos separados é necessário trabalhar com 
 
 **_adicionais :_**
 
-<<<<<<< HEAD
 [Import e export no Javascript: o que é e como funciona?](https://blog.betrybe.com/tecnologia/import-e-export/#:~:text=Para%20importar%20qualquer%20vari%C3%A1vel%20ou,erro%20na%20execu%C3%A7%C3%A3o%20do%20c%C3%B3digo.)
 
 [Como funciona o import e export do JavaScript?](https://www.alura.com.br/artigos/como-funciona-o-import-e-export-do-javascript)
@@ -20,17 +19,6 @@ Para trabalhar com os testes em arquivos separados é necessário trabalhar com 
 [Trabalhando com Módulos no JavaScript](https://www.devmedia.com.br/trabalhando-com-modulos-no-javascript/40091)
 
 [Como incluir um arquivo de JavaScript em outro](https://www.horadecodar.com.br/2020/08/13/como-incluir-um-arquivo-de-javascript-em-outro/)
-=======
-> [Import e export no Javascript: o que é e como funciona?](https://blog.betrybe.com/tecnologia/import-e-export/#:~:text=Para%20importar%20qualquer%20vari%C3%A1vel%20ou,erro%20na%20execu%C3%A7%C3%A3o%20do%20c%C3%B3digo.)
-
-> [Como funciona o import e export do JavaScript?](https://www.alura.com.br/artigos/como-funciona-o-import-e-export-do-javascript)
-
-> [import](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/import)
-
-> [Trabalhando com Módulos no JavaScript](https://www.devmedia.com.br/trabalhando-com-modulos-no-javascript/40091)
-
-> [Como incluir um arquivo de JavaScript em outro](https://www.horadecodar.com.br/2020/08/13/como-incluir-um-arquivo-de-javascript-em-outro/)
->>>>>>> develop
 
 ## Escrevendo Testes
 
@@ -74,19 +62,6 @@ expect(arr).toEqual([1, 2, 3]);
 
 ### Exceções
 
-
-=======
-> [Comparar Números](https://jestjs.io/docs/pt-BR/using-matchers#n%C3%BAmeros)
-
-> [Comparar Strings com expressões regulares: toMatch](https://jestjs.io/docs/pt-BR/expect#tomatchregexporstring)
-
-> [Verifique se um Array contém um item em especifico: toContain](https://jestjs.io/docs/pt-BR/expect#tocontainitem)
-
-> [Testar se Objeto possui propriedade especifica: toHaveProperty](https://jestjs.io/docs/pt-BR/expect#tohavepropertykeypath-value)
-
-### Exceções
-
->>>>>>> develop
 #### toThown
 
 Quando executada retorna uma mensagem de erro:
