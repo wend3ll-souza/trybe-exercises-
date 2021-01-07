@@ -19,3 +19,9 @@ describe('3 - testando se deconde númeoros retorna seus respectivos vogais', ()
         expect(data.decode(`1, 2, 3, 4, 5`)).toBe(`a, e, i, o, u`);
     })
 })
+
+describe('4 - testando se só vogais são convertidas', () => { 
+    it('testando encode', () => { 
+    expect(data.encode('asdfgj')).toBe('1sdfgj')
+    })
+})
