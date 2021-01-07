@@ -25,3 +25,9 @@ describe('4 - testando se só vogais são convertidas', () => {
     expect(data.encode('asdfgj')).toBe('1sdfgj')
     })
 })
+
+describe('5 - testando lenght', () => { 
+    it('testando encode', () => { 
+    expect(data.encode('asdfgj').length).toBe(6)
+    })
+})
