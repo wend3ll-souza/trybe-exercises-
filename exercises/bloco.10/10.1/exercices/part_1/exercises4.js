@@ -22,4 +22,6 @@ assert.deepStrictEqual(myFizzBuzz(7), 7);
 
 assert.deepStrictEqual(myFizzBuzz('x'), false);
 
+module.exports = myFizzBuzz;
+
 
