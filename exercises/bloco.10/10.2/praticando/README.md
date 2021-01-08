@@ -28,4 +28,4 @@ O `.rejects` espera a promise ser rejeitada. Caso a promise seja resolvida, o te
 ### beforeEach e afterEach
 
 - O `beforeEach` é executado antes de cada teste, evitando que você tenha que repetir trechos de código. Dessa forma, você escreve o trecho de código uma única vez e garante que o "ambiente" esteja preparado para os testes que precisarem.
-- O`afterEach` executa um trecho de código após cada teste. Ele é especialmente útil para resetar configurações, dados, entre outras coisas.
+- O `afterEach` executa um trecho de código após cada teste. Ele é especialmente útil para resetar configurações, dados, entre outras coisas.
