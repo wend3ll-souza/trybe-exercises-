@@ -8,4 +8,4 @@ const getRepos = (url) => {
     });
 }
 
-module.exports = {getRepos};
+module.exports = getRepos;

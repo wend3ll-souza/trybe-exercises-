@@ -1,10 +1,6 @@
 const users = {
-    4: {
-        name: 'Mark'
-    },
-    5: {
-        name: 'Paul'
-    }
+    4: {name: 'Mark'},
+    5: {name: 'Paul'}
 };
 
 const findUserById = (id) => {
@@ -23,8 +19,5 @@ const getUserName = (userID) => {
     return findUserById(userID).then(user => user.name);
 }
 
-module.exports = {
-    users,
-    findUserById,
-    getUserName
-};
+
+module.exports = getUserName;
