@@ -1,0 +1,20 @@
+{
+  "name": "rtl-testing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^11.2.5",
+    "jest-dom": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.next {
+  padding: 10px;
+  background-color: goldenrod;
+  color: white;
+  border-radius: .5rem;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  opacity: .8;
+}
+
+.next:hover {
+  opacity: 1;
+}
+
+.next:active {
+  padding: 12px;
+}
